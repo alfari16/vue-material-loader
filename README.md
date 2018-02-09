@@ -4,7 +4,7 @@ a VueJS single component to make a litle, nice and simple material loader
 
 ### Prerequisites
 
-Just import as another component you've made
+Just import it as simple as another component you've made
 
 ```
 <script>
@@ -27,7 +27,7 @@ Now you can call it in the template section and style it!
 <template>
 ```
 ```
-Note: The maximum value *stroke-width* prop is 6. Depend on the best material loader look like
+Note: The maximum value _stroke-width_ prop is 6. Depend on the best material loader look like
 ```
 ### Installing
 
